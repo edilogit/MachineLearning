@@ -1,0 +1,2 @@
+model_checkpoint_path: "regLog_lr=0.01_reg=0.1_var1_var2_var3"
+all_model_checkpoint_paths: "regLog_lr=0.01_reg=0.1_var1_var2_var3"

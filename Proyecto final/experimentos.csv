@@ -1,0 +1,13 @@
+Experimento,Accuracy,f1_score,precision_score,recall_score,Mean_ab_error
+DecTree_sort_false_splitter_best_train,100,0.719390856,0.719807692,0.719021461,0.273743017
+DecTree_sort_true_splitter_best_train,100,0.741337786,0.742956836,0.740163516,0.251396648
+DecTree_sort_false_splitter_random_train,100,0.700167504,0.699485442,0.703053143,0.296089385
+DecTree_sort_true_splitter_random_train,100,0.762088608,0.760875031,0.765074093,0.234636872
+SVM_Penalty_1_kernel_rbf_degree_1_train,99.82,0.379535056,0.789325843,0.506578947,0.418994413
+SVM_Penalty_1_kernel_rbf_degree_1_train,100,0.379535056,0.789325843,0.506578947,0.418994413
+SVM_Penalty_1_kernel_sigmoid_degree_1_train,62.92,0.365248227,0.287709497,0.5,0.424581006
+NBayes_lr=0.01_reg=0.1_train,78.38,0.822471766,0.823076923,0.821921308,0.173184358
+regLog_lr=0.01_reg=0.001_train,38.48857645,0,0,0,0.115285793
+regLog_lr=0.02_reg=0.1_train,38.48857645,0,0,0,0.113838082
+regLog_lr=0.5_reg=0.01_train,35.67662566,0,0,0,0.100150465
+regLog_lr=1.0_reg=0.01_train,35.85237258,0,0,0,0.100421998
